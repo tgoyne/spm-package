@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "TestLibrary",
             url: "https://github.com/tgoyne/spm-package/raw/master/TestLibrary/TestLibrary.xcframework.zip",
-            checksum: "b0f8b5cb0a7f7342e05168b2efe9bb8a7936f97b8d627d31d52292f2466ffc65"
+            checksum: "f8f479aaca2e1b62f6bc1bd2291d4f6144a1dd438764b3661888e8b8601c9b5c"
         ),
         .target(
             name: "Wrapper",
